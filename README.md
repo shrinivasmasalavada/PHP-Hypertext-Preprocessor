@@ -9,7 +9,7 @@ Key Features of PHP
 
 Server-Side Execution: PHP scripts are executed on the server, and the result is returned to the browser as plain HTML.
 
-Open Source: PHP is free to download and use.
+Open Source: PHP is free to download and use. 
 
 Cross-Platform: PHP runs on various platforms, including Windows, Linux, Unix, and macOS.
 
